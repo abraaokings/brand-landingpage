@@ -1,6 +1,34 @@
+@import url(/assets/css/header.css);
+
+:root {
+  --color-primary: #1aa37a;
+  --color-secondary: #b6b6b6;
+}
+
 * {
   margin: 0;
   padding: 0;
   font-family: "Inter", sans-serif;
   box-sizing: border-box;
+}
+
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 56px 103px 65.93px 104px;
+  background-image: url("/images/background.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+span {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  margin: 123px 0 0 0;
 }
