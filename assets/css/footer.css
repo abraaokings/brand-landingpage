@@ -1,0 +1,21 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 35px 0 0 0;
+  border-top: 1px solid #acacac;
+}
+
+footer ul {
+  display: flex;
+  list-style: none;
+  gap: 32px;
+}
+
+footer a {
+  color: var(--color-secondary);
+}
+
+footer a:hover {
+  color: #ffffff;
+}
