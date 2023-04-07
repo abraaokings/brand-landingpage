@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="brand-logo" src="https://imgcloud.com.br/share/I7HCxYqBzqL5kWIw" width="10%">
+  <img alt="brand-logo" src="https://imgcloud.com.br/share/I7HCxYqBzqL5kWIw" width="23%">
 </p>
 
 <p align="center">
