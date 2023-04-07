@@ -18,7 +18,7 @@
   height: 631px;
   padding: 48px;
   border-radius: 10px;
-  background: #3f3f3f;
+  background: var(--graphite-gray);
 }
 
 .cta-right form {
@@ -29,12 +29,12 @@
 .cta-right form label {
   padding: 0 0 8px 0;
   font-weight: 500;
-  color: #ffffff;
+  color: var(--white);
 }
 
 .cta-right form label > span {
   font-weight: 500;
-  color: #eb5939;
+  color: var(--vermilion-orang);
 }
 
 .cta-right form input {
@@ -43,25 +43,26 @@
   border: none;
   border-radius: 5px;
   outline: none;
-  background: #505050;
-  color: #acacac;
+  background: var(--medium-dark-gray);
+  color: var(--light-gray);
 }
 
 .cta-right form input::placeholder {
-  color: #acacac;
+  color: var(--light-gray);
 }
 
 .cta-right button {
   margin: 5px 0 0 0;
   padding: 16px 72px;
+  font-size: 17px;
   border: none;
   border-radius: 40px;
   outline: none;
-  background: var(--color-primary);
+  background: var(--deep-emerald-green);
   font-weight: 700;
-  font-weight: 700;
-  color: #ffffff;
+  color: var(--white);
   box-shadow: 0px 10px 57px rgba(157, 255, 179, 0.2);
+  cursor: pointer;
 }
 
 .cta-heading {
@@ -74,10 +75,10 @@
 
 .cta-heading > h1 {
   font-size: 36px;
-  color: #ffffff;
+  color: var(--white);
 }
 
 .cta-heading > p {
   font-weight: 500;
-  color: #acacac;
+  color: var(--light-gray);
 }

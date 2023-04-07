@@ -10,12 +10,12 @@
 
 .hero-heading h1 {
   font-size: 48px;
-  color: #ffffff;
+  color: var(--white);
 }
 
 .hero-heading h1 > span {
   font-size: 48px;
-  color: var(--color-primary);
+  color: var(--deep-emerald-green);
 }
 
 .hero-heading h1 > span:nth-child(1):after {
@@ -72,7 +72,7 @@
   padding: 24px;
   border-radius: 4px;
   border-radius: 10px;
-  background: #3f3f3f;
+  background: var(--graphite-gray);
   gap: 24px;
   box-shadow: 0px 24px 24px rgba(0, 0, 0, 0.08);
   backdrop-filter: blur(2px);
@@ -83,11 +83,11 @@
 }
 
 .testimonials-description h3 {
-  color: #ffffff;
+  color: var(--white);
 }
 
 .testimonials-description p {
-  color: #acacac;
+  color: var(--light-gray);
 }
 
 .hero-right {

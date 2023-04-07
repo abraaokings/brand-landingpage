@@ -1,6 +1,12 @@
 :root {
-  --color-primary: #1aa37a;
-  --color-secondary: #b6b6b6;
+  --deep-emerald-green: #1aa37a;
+  --neutral-gray: #b6b6b6;
+  --white: #ffffff;
+  --graphite-gray: #3f3f3f;
+  --light-gray: #acacac;
+  --vermilion-orang: #eb5939;
+  --medium-dark-gray: #505050;
+  --forest-green: #004b35;
 }
 
 * {
