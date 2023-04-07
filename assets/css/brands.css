@@ -1,0 +1,66 @@
+.brands {
+  margin: 0 0 112px 0;
+}
+
+.brands-ornament {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.brands-ornament p {
+  max-width: 441px;
+  text-align: center;
+  color: #acacac;
+}
+
+.brands-ornament span {
+  margin: 112px 0 0 0;
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+  color: #ffffff;
+}
+
+.brands-ornament > span::after {
+  content: "";
+  display: block;
+  align-items: center;
+  width: 209px;
+  height: 10px;
+  background: url(/assets/images/hero/brand-ornament.svg) no-repeat;
+}
+
+.brands-list {
+  margin: 44px auto;
+}
+
+.brands-list ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  max-width: 1440px;
+  list-style: none;
+}
+
+.brands-list li {
+  display: flex;
+  padding: 32px;
+  border-left: 2px solid rgb(247, 247, 247);
+}
+
+.brands-list li:nth-child(1),
+.brands-list li:nth-child(5) {
+  border-left: none;
+}
+
+.brands-list li:nth-child(1),
+.brands-list li:nth-child(2),
+.brands-list li:nth-child(3),
+.brands-list li:nth-child(4) {
+  border-bottom: 2px solid rgb(247, 247, 247);
+}
+
+.brands-list img {
+  margin: auto;
+}
