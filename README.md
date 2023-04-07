@@ -8,7 +8,7 @@ Este é um projeto de Landing Page criado com HTML e CSS puro, sem o uso de bibl
 
 <p align="center">
 <a href="https://effortless-kheer-d19b6d.netlify.app/">
-  <img alt="rocketpay" src="https://res.cloudinary.com/lukemorales/image/upload/v1599785319/readme_logos/demo_on_netlify_umjmch.png" width="10%">
+  <img alt="rocketpay" src="https://res.cloudinary.com/lukemorales/image/upload/v1599785319/readme_logos/demo_on_netlify_umjmch.png" width="23%">
   </a>
 </p>
 
